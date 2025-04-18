@@ -10,6 +10,8 @@ if vim.g.neovide then
   vim.g.neovide_scroll_animation_length = 0.1
   vim.g.neovide_padding_left = 5
   -- vim.g.neovide_underline_stroke_scale = 1.0
+  -- vim.g.neovide_opacity = 0.9
+  -- vim.g.neovide_normal_opacity = 0.9
   -- vim.g.neovide_hide_mouse_when_typing = true
   -- vim.g.neovide_cursor_antialiasing = false
   -- vim.g.neovide_cursor_animate_command_line = false
